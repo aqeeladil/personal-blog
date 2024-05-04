@@ -2,7 +2,7 @@
 
 To run this locally, run these commands:
 ```html
-git clone https://github.com/aqeeladil/weather-app.git
+git clone https://github.com/aqeeladil/personal-blog.git
 ```
 
 ```html
